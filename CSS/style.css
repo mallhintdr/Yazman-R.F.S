@@ -7,7 +7,7 @@ body, html {
     position: relative;
    /*Adjust according to the height of the top-panel */
     width: 99%;    
-    height: 85vh;
+    height: 83vh;
     left: 0;
 }
 #top-panel {
@@ -33,7 +33,7 @@ body, html {
 #footer-panel {
     background-color: #1d1d1d;
     padding: 0px;
-    top:93vh;
+    top:91vh;
     position: absolute; /* Ensure it's above the map */
     width: 99%;
     height: 3vh;
