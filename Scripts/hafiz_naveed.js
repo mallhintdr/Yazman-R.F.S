@@ -1,1 +1,0 @@
-var data =["36 DNB","37 DNB","38 DNB"]
